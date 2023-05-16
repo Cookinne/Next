@@ -1,0 +1,79 @@
+{
+  "hello": "你好",
+  "createToken": "创建代币",
+  "confirmIssueToken": "确认发币",
+  "completeIssueToken": "发币成功",
+  "basicConfig": "基础配置",
+  "advanceConfig": "高级配置",
+  "token": {
+    "type": "代币类型",
+    "name": "代币名称",
+    "symbol": "代币符号",
+    "decimals": "代币小数位",
+    "initSupply": "初始总量",
+    "totalSupply": "增发量",
+    "mode": "代币模型"
+  },
+  "initialFixed": "初始恒定",
+  "receiveAddress": "接收地址",
+
+  "pleaseChoose": "请选择",
+  "continue": "继续",
+  "preStep": "上一步",
+  "other": "其他",
+  "confirm": "确认",
+  "confirmTitle": "确认信息",
+  "kyc": {
+    "business": {
+      "index": {
+        "FAQ": "FAQ",
+        "businessAccountLink": "如何认证企业账户",
+        "howToSettingLink": "如何建立子账户和配置权限",
+        "business-Authentication": "企业认证",
+        "gotoAuthentication": "去认证"
+      },
+      "nameAndCountry": {
+        "title": "开始进行企业申请",
+        "tips": "请回答以下几个问题，查看您需要准备的资料",
+        "nameTips": "您的企业名称是",
+        "nameHint": "需与您的证明文件一致",
+        "countryTips": "您的企业注册于哪个国家/地区？"
+      },
+      "type": {
+        "title": "请问您的企业类型？",
+        "lawFormTips": "请问您的企业法律形式？",
+        "companyNatureTips": "您的业务性质？"
+      },
+      "moreInfo": {
+        "title": "您的企业更多详情？",
+        "structureTips": "哪一项与您的股权结构更符合",
+        "backToEdit": "返回编辑",
+        "modalContent": {
+          "title": "确认信息",
+          "titleTips": "请确认所有提供的信息均正确无误，如果您未能提供正确的信息，我们可能会拒绝您的申请，这会导致整体验证流程需重新执行。",
+          "companyName": "企业名称",
+          "countryName": "注册国家",
+          "companyLawForm": "企业法律形式",
+          "companyNature": "企业性质",
+          "companyStructure": " 股权结构"
+        }
+      }
+    }
+  },
+  "legal": {
+    "title1": "股份/担保有限公司",
+    "content1": "最常见的法律结构类型。包括私人有限公司、控股公司、担保有限公司。",
+    "title2": "信托公司/信托",
+    "content2": "信托是一种法律协定，指个人或企业（受托人）为了一个或多个受益人而代为特有其财产或资产。",
+    "title3": "合伙",
+    "content3": "合伙企业是指双方或多方正式商定共同管理并共享利润的公司。常见类型有一般合伙企业、有限合伙企业和有限责任合伙企业等。",
+    "title4": "有限责任公司",
+    "content4": "介于有限公司和合伙企业之间的法律实体，其中每位成员都需承担有限责任、享有公司主控权和利润分成。",
+    "title5": "独立投资組合公司/受保护单元公司/可变资本公司",
+    "content5": "介于有限公司和合伙企业之间的法律实体，其中每位成员都需承担有限责任、享有公司主控权和利润分成。",
+    "title6": "基金会/合作社/工会/协会/俱乐部!社团",
+    "content6": "出于同一个目的设立的非法人实体和协会，其目的为在一群人之间建立具有法律约束力的关系。",
+    "title7": "政府机构/机关",
+    "content7": "政府机构/机关可以是任何国家/地区的政府或从属政治单位、任何此类政府的任何机构、任何法律授权具备行政、立法、司法、监管、管理、军事或警备等政府职能的个人或组织，以及任何政府间组织。"
+  }
+}
