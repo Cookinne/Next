@@ -1,0 +1,14 @@
+.btn {
+    background-color: pink;
+    border: none;
+    margin-right: 20px;
+    border-top-left-radius: 9999px;
+    border-top-right-radius: 9999px;
+    border-bottom-left-radius: 9999px;
+    border-bottom-right-radius: 9999px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 12px;
+    color: inherit;
+}
